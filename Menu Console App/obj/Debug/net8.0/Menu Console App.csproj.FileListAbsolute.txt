@@ -1,0 +1,14 @@
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\bin\Debug\net8.0\Menu Console App.exe
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\bin\Debug\net8.0\Menu Console App.deps.json
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\bin\Debug\net8.0\Menu Console App.runtimeconfig.json
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\bin\Debug\net8.0\Menu Console App.dll
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\bin\Debug\net8.0\Menu Console App.pdb
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\obj\Debug\net8.0\Menu Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\obj\Debug\net8.0\Menu Console App.AssemblyInfoInputs.cache
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\obj\Debug\net8.0\Menu Console App.AssemblyInfo.cs
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\obj\Debug\net8.0\Menu Console App.csproj.CoreCompileInputs.cache
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\obj\Debug\net8.0\Menu Console App.dll
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\obj\Debug\net8.0\refint\Menu Console App.dll
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\obj\Debug\net8.0\Menu Console App.pdb
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\obj\Debug\net8.0\Menu Console App.genruntimeconfig.cache
+C:\Users\Tuan.Vu\source\repos\Menu Console App\Menu Console App\obj\Debug\net8.0\ref\Menu Console App.dll
